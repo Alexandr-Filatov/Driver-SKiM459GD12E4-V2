@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -442,6 +442,10 @@
     [
       "8479a9cb-eb9a-492e-bb8a-963500a48926",
       "Indication_ADUM"
+    ],
+    [
+      "f75c0da5-ea98-45b1-9a07-415549f295ff",
+      "Supply_Power"
     ]
   ],
   "text_variables": {}
