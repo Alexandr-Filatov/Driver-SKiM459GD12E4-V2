@@ -433,7 +433,7 @@
     ],
     [
       "90ad37b3-1964-4d46-be98-f2e705808058",
-      "ADUM4135"
+      "ADUM4135_1"
     ],
     [
       "d88efb4f-8308-49e6-9154-1da2ad8b0e37",
@@ -441,11 +441,59 @@
     ],
     [
       "8479a9cb-eb9a-492e-bb8a-963500a48926",
-      "Indication_ADUM"
+      "Indication_ADUM_1"
     ],
     [
       "f75c0da5-ea98-45b1-9a07-415549f295ff",
-      "Supply_Power"
+      "Supply_Power_1"
+    ],
+    [
+      "b57f5173-83a4-43f2-8b60-0cfdaa48e60e",
+      "ADUM4135_2"
+    ],
+    [
+      "514f7294-9f9a-48be-91b9-af464c510943",
+      "ADUM4135_3"
+    ],
+    [
+      "a52110d1-8b82-46b9-820b-5e8319044e58",
+      "Supply_Power_2"
+    ],
+    [
+      "483020ba-dbc2-4b3a-bae4-205eb82175f6",
+      "Supply_Power_3"
+    ],
+    [
+      "406ca1f7-570d-41d2-a9fb-681fc68f82a6",
+      "Indication_ADUM_2"
+    ],
+    [
+      "bda10430-e40d-4284-8c39-0b69ea2a853a",
+      "Indication_ADUM_3"
+    ],
+    [
+      "2b75cafd-7292-43f2-84b9-7883499a1c42",
+      "Logic_Protection_2"
+    ],
+    [
+      "e6a74321-337a-44fc-b151-88b3d7901627",
+      "Logic_Protection_3"
+    ],
+    [
+      "b341ba61-0db2-4720-ae65-a3ee3f0accba",
+      "DC_Measure"
+    ],
+    [
+      "725fa47d-37a7-4087-9a93-0b03cc2ba810",
+      "NTC_Handler"
+    ],
+    [
+      "81d65d3c-edaf-4263-b69d-4cd1081af8a3",
+      "Supply_Power_5V"
+    ],
+    [
+      "6f94fc9e-4503-4c82-8357-e2c8a0072f85",
+      "Common_ERR"
     ]
   ],
   "text_variables": {}
