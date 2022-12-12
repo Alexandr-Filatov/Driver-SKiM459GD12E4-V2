@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.3,
-          "height": 7.0,
-          "width": 7.0
+          "drill": 0.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -485,7 +485,7 @@
     ],
     [
       "725fa47d-37a7-4087-9a93-0b03cc2ba810",
-      "NTC_Handler"
+      "PTC_Handler"
     ],
     [
       "81d65d3c-edaf-4263-b69d-4cd1081af8a3",
