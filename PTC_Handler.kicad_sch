@@ -1137,7 +1137,7 @@
     (in_bom yes) (on_board yes)
     (uuid c92d8384-ab7c-46a0-833e-b6766f1016a5)
     (property "Reference" "R141" (id 0) (at 164.465 81.915 90))
-    (property "Value" "1.5k" (id 1) (at 164.465 85.471 90))
+    (property "Value" "350" (id 1) (at 164.465 85.471 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 164.465 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
